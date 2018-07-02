@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [test.LocatorTatocTestNGTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="test.LocatorTatocTestNGTest">
+        <methods>
+          <include name="callFrame"/>
+          <include name="callCookie"/>
+          <include name="callDrag"/>
+          <include name="launchBrowser"/>
+          <include name="callPop"/>
+          <include name="callGrid"/>
+          <include name="callBasic"/>
+        </methods>
+      </class> <!-- test.LocatorTatocTestNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [test.LocatorTatocTestNGTest] -->
